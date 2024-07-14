@@ -1,8 +1,8 @@
 namespace LeetCodeSetup.LeetCodeProblems;
-
+//Difficulty: EASY
 public class TwoSum
 {
-    //Program.cs Setup
+    //Program.cs Configuration
     /* 
      * int[] nums = {3,2,4};
        int target = 9;

@@ -1,5 +1,5 @@
 namespace LeetCodeSetup.LeetCodeProblems;
-
+//Difficulty: EASY
 public class PalindromeNum
 {
     //Program.cs configuration
